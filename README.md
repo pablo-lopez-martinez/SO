@@ -4,7 +4,7 @@ This is a project developed during the lab of Operative System subject in the se
 
 This program consists of a shell similar to a bash with some included functions and the ability to run any other command on the Unix System.
 
-#Basic Usage
+###Basic Usage
 
 You can get a list of all the included functions by running the command "ayuda", and a small description of each one by running "ayuda command". You can also run any command installed in your system. To exit the shell you can run salir,fin,bye or exit.
 
@@ -16,3 +16,8 @@ You need to have gcc installed in a Unix Operating System. You can compile it wi
 make
 ```
 
+And run it with:
+
+```
+./shell
+```
