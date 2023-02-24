@@ -1,3 +1,4 @@
 # Operative System Project
 
-This project consist on the creation of a terminal with a set of bash commands and their implementation.
+This is a project developed during the lab of Operative System subject in the University of A Coruña.
+During this project we created our own linux bash implementing its commands.
